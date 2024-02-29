@@ -1,7 +1,7 @@
 # OriginCursorB4
 
 ## Descripción
-Este Add-on para Blender permite asignar el punto de origen de manera rapida y sencilla en la posicion del vertice seleccionado en modo edicion.
+Este Add-on para Blender permite asignar el punto de origen de manera rapida y sencilla en la posicion del vertice seleccionado.
 
 ## Instalación
 1. Descarga este repositorio como .zip
@@ -11,6 +11,6 @@ Este Add-on para Blender permite asignar el punto de origen de manera rapida y s
 
 ## Instrucciones
 Una vez instalado, estando en el modo edicion al presionar la combinacion de teclas Ctrl + Shift + C el punto de origen del objeto se ubicara 
-en la misma posicion de vertice seleccionado, lo que se traduce en una mejora en el flujo de trabajo.
+en la misma posicion que el vertice seleccionado, lo que se traduce en una mejora en el flujo de trabajo.
 
 ![Image description](https://github.com/RichardCollao/OriginCursorB4/blob/main/images/screencast.gif)
