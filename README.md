@@ -13,4 +13,4 @@ Este Add-on para Blender permite asignar el punto de origen de manera rapida y s
 Una vez instalado, estando en el modo edicion al presionar la combinacion de teclas Ctrl + Shift + C el punto de origen del objeto se ubicara 
 en la misma posicion de vertice seleccionado, lo que se traduce en una mejora en el flujo de trabajo.
 
-![Image description](https://raw.githubusercontent.com/RichardCollao/RotationConvert/master/files/Screenshot_01.png)
+![Image description](https://github.com/RichardCollao/OriginCursorB4/blob/main/images/screencast.gif)
